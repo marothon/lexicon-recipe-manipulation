@@ -49,7 +49,7 @@ const instructionListTag = document
                 text: instruction.innerText
             }
         )
-
+        order++;
     });
 console.log(instructions);
 
